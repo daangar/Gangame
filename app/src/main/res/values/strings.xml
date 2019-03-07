@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gangame</string>
+    <string name="title_top_rated">Top rated</string>
+    <string name="title_most_owned">Most owned</string>
+    <string name="title_deals">Deals</string>
+    <string name="label_ratings">Ratings</string>
+    <string name="label_deal_price">Deal Price</string>
+    <string name="label_original">Original</string>
+    <string name="labelContentDescription">Thumb</string>
+    <string name="error_request">Hubo un error al cargar la información</string>
+    <string name="label_retry">Reintentar</string>
+</resources>
